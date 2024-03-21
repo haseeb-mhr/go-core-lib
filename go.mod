@@ -2,7 +2,7 @@ module github.com/haseeb-mhr/go-core-lib
 
 go 1.18
 
-require github.com/apimatic/go-core-runtime v0.0.16
+require github.com/apimatic/go-core-runtime v0.0.17
 
 require (
 	github.com/go-openapi/jsonpointer v0.20.2 // indirect
